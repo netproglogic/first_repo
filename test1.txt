@@ -1,1 +1,2 @@
 First locally created file
+"additional text" 
